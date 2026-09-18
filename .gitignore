@@ -1,0 +1,27 @@
+# Public exports only: default deny new file types.
+*
+!.gitignore
+!README.md
+!index.html
+!units/
+!units/*/
+!units/*/notes.md
+!units/*/review.md
+!units/*/practice.md
+!units/*/index.html
+# Never add source media, source text, credentials, or personal backups.
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.m4a
+*.wav
+*.srt
+*.vtt
+*.pdf
+*.json
+*.zip
+.env*
+**/*transcript*
+**/*my-work*
+**/*my-study-copy*
