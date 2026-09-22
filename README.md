@@ -11,6 +11,8 @@ Unofficial study notes, conventions, worked examples, practice exercises and qui
 | 2026-09-14 | [Comprehensions and function calls](units/2026-09-14/notes.md) | [Review](units/2026-09-14/review.md) · [Practice](units/2026-09-14/practice.md) |
 | 2026-09-15 | [Defining functions and methods](units/2026-09-15/notes.md) | [Review](units/2026-09-15/review.md) · [Practice](units/2026-09-15/practice.md) |
 | 2026-09-17 | [Scope, debugging and testing](units/2026-09-17/notes.md) | [Review](units/2026-09-17/review.md) · [Practice](units/2026-09-17/practice.md) |
+| 2026-09-21 | [Propositional logic, negation, and predicates](units/2026-09-21/notes.md) | [Review](units/2026-09-21/review.md) · [Practice](units/2026-09-21/practice.md) |
+| 2026-09-22 | [Quantifiers, filtering, and nested statements](units/2026-09-22/notes.md) | [Review](units/2026-09-22/review.md) · [Practice](units/2026-09-22/practice.md) |
 
 ## Interactive reader and PDF export
 
