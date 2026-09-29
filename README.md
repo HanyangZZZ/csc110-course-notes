@@ -13,6 +13,8 @@ Unofficial study notes, conventions, worked examples, practice exercises and qui
 | 2026-09-17 | [Scope, debugging and testing](units/2026-09-17/notes.md) | [Review](units/2026-09-17/review.md) · [Practice](units/2026-09-17/practice.md) |
 | 2026-09-21 | [Propositional logic, negation, and predicates](units/2026-09-21/notes.md) | [Review](units/2026-09-21/review.md) · [Practice](units/2026-09-21/practice.md) |
 | 2026-09-22 | [Quantifiers, filtering, and nested statements](units/2026-09-22/notes.md) | [Review](units/2026-09-22/review.md) · [Practice](units/2026-09-22/practice.md) |
+| 2026-09-24 | [Conditionals, Boolean simplification, and PythonTA](units/2026-09-24/notes.md) | [Review](units/2026-09-24/review.md) · [Practice](units/2026-09-24/practice.md) |
+| 2026-09-28 | [Function specifications and property-based testing](units/2026-09-28/notes.md) | [Review](units/2026-09-28/review.md) · [Practice](units/2026-09-28/practice.md) |
 
 ## Interactive reader and PDF export
 
